@@ -34,7 +34,7 @@ PCM is built with privacy as a priority.
 - All processing happens locally on the device
 - Permissions are used only for core app functionality
 
-For more details, see the [Privacy Policy](./index.md).
+For more details, see the [Privacy Policy](./PrivacyPolicy.md).
 
 ---
 
