@@ -60,23 +60,6 @@ These permissions are required solely to provide app functionality and are not u
 
 ---
 
-## Installation
-
-1. Clone the repository
-2. Open the project in Android Studio
-3. Sync Gradle
-4. Build and run on a physical device or emulator
-
----
-
-## Release & Distribution
-
-- Distributed using Android App Bundle (AAB)
-- Optimized with code shrinking and resource optimization
-- Prepared for Google Play Store compliance
-
----
-
 ## Disclaimer
 
 PCM is a utility app intended to assist users with call awareness.  
